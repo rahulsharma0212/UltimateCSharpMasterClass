@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_NamesAfterRefactorToSRP"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_DiceRollGame", "02_DiceRollGame\02_DiceRollGame.csproj", "{8D92A90B-62BD-453B-A372-39A87003290E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03_PolymorphismInheritanceInterfaces", "03_PolymorphismInheritanceInterfaces\03_PolymorphismInheritanceInterfaces.csproj", "{31142659-A223-4D6A-AC8B-BEB63566295C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{8D92A90B-62BD-453B-A372-39A87003290E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8D92A90B-62BD-453B-A372-39A87003290E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8D92A90B-62BD-453B-A372-39A87003290E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31142659-A223-4D6A-AC8B-BEB63566295C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31142659-A223-4D6A-AC8B-BEB63566295C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31142659-A223-4D6A-AC8B-BEB63566295C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31142659-A223-4D6A-AC8B-BEB63566295C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
